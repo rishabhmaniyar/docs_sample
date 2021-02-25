@@ -1,0 +1,8 @@
+site_name: 5p Docs
+nav:
+  - Overview: index.md
+  - Authorization: authorization.md
+  - Customer Login: login.md
+  - Market Feeds: feed.md
+theme:
+  name: material
